@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotic, blockchain and machine learning
 - 🌱 I’m currently learning Golang and Rust programming
 - 💞️ I’m looking to collaborate on Golang and Robotic projects. 
-- 📫 How to reach me? via Linkedin(https://www.linkedin.com/in/mamy-rkt/) 
+- 📫 How to reach me? 
 
 <!---
 mamylinx/mamylinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
