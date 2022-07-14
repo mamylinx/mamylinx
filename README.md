@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamylinx
-- 👀 I’m interested in robotic, blockchain and machine learning
+- 👀 I’m interested in robotic, eletrical engineering and machine learning
 - 🌱 I’m currently learning Golang and Rust programming
-- 💞️ I’m looking to collaborate on Golang and Robotic projects. 
+- 💞️ I’m looking to collaborate on Golang and healthtech projects. 
 - 📫 How to reach me? 
 
 <!---
